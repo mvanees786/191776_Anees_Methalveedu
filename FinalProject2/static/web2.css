@@ -1,0 +1,14 @@
+#textstyle{
+    color: midnightblue;
+    padding-left: 500px;
+    padding-top: 100px;
+    font-weight: bold;
+}
+body{
+    background-image: url('surface-duo-3840x2160-windows-10-microsoft-4k-23824.jpg');
+
+    height: 500px;
+    width: 500px;
+    background-attachment: fixed;
+    background-size: cover;
+}
